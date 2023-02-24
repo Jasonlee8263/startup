@@ -1,4 +1,4 @@
-# Cougar society
+# Unione
 
 Elevator Speech
 Have you ever thought of an idea that if there is a place where you can share your awesome college life with other students who are attending saame school as you?
