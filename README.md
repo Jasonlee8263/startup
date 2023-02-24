@@ -1,4 +1,4 @@
-# Cougar society
+# Unione
 
 Elevator Speech
 Have you ever thought of an idea that if there is a place where you can share your awesome college life with other students who are attending saame school as you?
@@ -6,10 +6,11 @@ Have you ever experienced an inconvinience from the college, and wanted to share
 
 Of course, we all do!
 
-So, here is Cougar Society.
+So, here is Unione.
 You can share all the stories, questions, and concerns you have as a student, and share it with over 30,000+ students attending in BYU.
 
 ![simple sketch for startup](https://user-images.githubusercontent.com/92830075/215238607-6bf302a2-7640-4591-9e35-bed12f6de73b.png)
+*Edit: I changed the name to Unione
 
 Key features
   * Secure login over HTTPS
