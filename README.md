@@ -10,6 +10,7 @@ So, here is Cougar Society.
 You can share all the stories, questions, and concerns you have as a student, and share it with over 30,000+ students attending in BYU.
 
 ![simple sketch for startup](https://user-images.githubusercontent.com/92830075/215238607-6bf302a2-7640-4591-9e35-bed12f6de73b.png)
+*Edit: I changed the name to Unione
 
 Key features
   * Secure login over HTTPS
