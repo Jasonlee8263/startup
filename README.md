@@ -31,4 +31,13 @@ Note for Simon HTML: I learned how the table attribute works in HTML. And input 
 Note for CSS Practice: I think Animation is the coolest part of doing CSS. I thought I had to use JavaScript if I want to make things moving around. But I can do it even only with CSS.  
 Note for CSS Flex: I think it will be super useful if you want to emphasize some sections on your website. Even if the visitors make the browser smaller, they will see what you want them to see if you use flex.  
 Note for CSS frameworks: When I first learned about web programming, I thought it would take a long time because I thought I had to make everything from scratch. However, it is very good that the time can be greatly reduced due to the bootstrap And I think it's very convenient because I just have to transform it a little bit as I want.  
-Note for JavaScript types, operators, conditionals, and loops: I think it's interesting to use '==='. It does the same thing when you use '==' in python or C++. If I just use '==', even though the type is different, as long as the value is the same, it will give think it's True.
+Note for UX design: Even though there are many buttons, it is a very consistent style. And the navigation is very good. It is very clear what kind of accommodation you want to book and it is very easy to choose them.  
+Note for JavaScript types, operators, conditionals, and loops: I think it's interesting to use '==='. It does the same thing when you use '==' in python or C++. If I just use '==', even though the type is different, as long as the value is the same, it will give think it's True.  
+Note for JavaScript arrays: I think there are a lot of built-in functions. I think for each function was interesting because with arrow function you can simply loop through the array.  
+Note for JavaScript arrow functions: It's super useful to write a function in a simple way.  
+Note for JavaScript objects and classes: I think object is so convenient because you can store any type of value in one object. And I have to remember that each class has a constructor.  
+Note for JavaScript destructuring: I think it's a really simple way to pull out what I want. And it's also useful when you have to parse.  
+Note for JavaScript regular expressions: I think .text method returns true if there is at least one matching.  
+Note for JavaScript rest and spread: I think it's interesting that rest method doesn't work for string. There has to be a separate string.  
+Note for JavaScript promises: It was interesting to be able to extract different results according to the progress status, the error status, and the completion status through the promise.
+
