@@ -39,7 +39,10 @@ Note for JavaScript objects and classes: I think object is so convenient because
 Note for JavaScript destructuring: I think it's a really simple way to pull out what I want. And it's also useful when you have to parse.  
 Note for JavaScript regular expressions: I think .text method returns true if there is at least one matching.  
 Note for JavaScript rest and spread: I think it's interesting that rest method doesn't work for string. There has to be a separate string.  
-Note for JavaScript promises: It was interesting to be able to extract different results according to the progress status, the error status, and the completion status through the promise.
+Note for JavaScript promises: It was interesting to be able to extract different results according to the progress status, the error status, and the completion status through the promise.  
+Note for fetch: Fetch is a function that makes it easy to remotely data from other APIs.  
+Note for simon service: Express makes use of middleware, which are functions that can be added to the request/response cycle to perform certain tasks. And it provides a routing mechanism that makes it easy to handle different HTTP requests. And express can let you write the data to another html file. I still have a little bit of understanding of middleware, so I think I need to study more.  
+
 # midterm note
 Midterm review
 1.	In HTML, what does <div> do?
