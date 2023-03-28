@@ -42,7 +42,7 @@ Note for JavaScript rest and spread: I think it's interesting that rest method d
 Note for JavaScript promises: It was interesting to be able to extract different results according to the progress status, the error status, and the completion status through the promise.  
 Note for fetch: Fetch is a function that makes it easy to remotely data from other APIs.  
 Note for simon service: Express makes use of middleware, which are functions that can be added to the request/response cycle to perform certain tasks. And it provides a routing mechanism that makes it easy to handle different HTTP requests. And express can let you write the data to another html file. I still have a little bit of understanding of middleware, so I think I need to study more.  
-Note for simon db, login: Before you create an account and login, you have no access to play and about page. I think it's important to manage clients' data and give access depending on the data.  
+Note for simon db, login: Before you create an account and login, you have no access to play and about page. I think it's important to manage clients' data and give access depending on the data.  And I'm curious that if amount of data we store exceed the capacity of database, what would happen.  
 
 # midterm note
 Midterm review
