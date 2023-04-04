@@ -31,4 +31,58 @@ Note for Simon HTML: I learned how the table attribute works in HTML. And input 
 Note for CSS Practice: I think Animation is the coolest part of doing CSS. I thought I had to use JavaScript if I want to make things moving around. But I can do it even only with CSS.  
 Note for CSS Flex: I think it will be super useful if you want to emphasize some sections on your website. Even if the visitors make the browser smaller, they will see what you want them to see if you use flex.  
 Note for CSS frameworks: When I first learned about web programming, I thought it would take a long time because I thought I had to make everything from scratch. However, it is very good that the time can be greatly reduced due to the bootstrap And I think it's very convenient because I just have to transform it a little bit as I want.  
-Note for JavaScript types, operators, conditionals, and loops: I think it's interesting to use '==='. It does the same thing when you use '==' in python or C++. If I just use '==', even though the type is different, as long as the value is the same, it will give think it's True.
+Note for UX design: Even though there are many buttons, it is a very consistent style. And the navigation is very good. It is very clear what kind of accommodation you want to book and it is very easy to choose them.  
+Note for JavaScript types, operators, conditionals, and loops: I think it's interesting to use '==='. It does the same thing when you use '==' in python or C++. If I just use '==', even though the type is different, as long as the value is the same, it will give think it's True.  
+Note for JavaScript arrays: I think there are a lot of built-in functions. I think for each function was interesting because with arrow function you can simply loop through the array.  
+Note for JavaScript arrow functions: It's super useful to write a function in a simple way.  
+Note for JavaScript objects and classes: I think object is so convenient because you can store any type of value in one object. And I have to remember that each class has a constructor.  
+Note for JavaScript destructuring: I think it's a really simple way to pull out what I want. And it's also useful when you have to parse.  
+Note for JavaScript regular expressions: I think .text method returns true if there is at least one matching.  
+Note for JavaScript rest and spread: I think it's interesting that rest method doesn't work for string. There has to be a separate string.  
+Note for JavaScript promises: It was interesting to be able to extract different results according to the progress status, the error status, and the completion status through the promise.  
+Note for fetch: Fetch is a function that makes it easy to remotely data from other APIs.  
+Note for simon service: Express makes use of middleware, which are functions that can be added to the request/response cycle to perform certain tasks. And it provides a routing mechanism that makes it easy to handle different HTTP requests. And express can let you write the data to another html file. I still have a little bit of understanding of middleware, so I think I need to study more.  
+Note for simon db, login: Before you create an account and login, you have no access to play and about page. I think it's important to manage clients' data and give access depending on the data.  And I'm curious that if amount of data we store exceed the capacity of database, what would happen.  
+
+# midterm note
+Midterm review
+1.	In HTML, what does <div> do?
+a.	Creates a division element
+2.	To point to another DNS record, you should use the following DNS record type.
+a.	CNAME
+3.	You can use this CSS to load fonts from Google
+a.	Import url www.google..........................
+4.	Picture about Promise
+5.	Which of the following is valid JSON?
+a.	{“x”:3}
+b.	There must be double quotes
+6.	Using CSS, how would you turn only 
+7.	Which of the following is not a valid way to include JavaScript in HTML?
+a.	<javascript>1+1</javascript>
+8.	What does the following code output? Refer the picture
+a.	V.match(/A|f/i) i means case doesn’t matter
+9.	Which of the following is not a valid JavaScript function
+a.	Function f(x) = {}
+10.	The CSS property padding:
+a.	Peanut before marriage(content padding border margin)
+11.	What does the following code output? Picture about reduce.
+12.	What is the HTML tag for an unordered list?
+a.	<ul>
+13.	What does the following code? Picture about document
+a.	first 
+14.	Which HTML will create a valid hyperlink?
+a.	<a href=’https://c.com’>x</a>
+15.	What does the following code output? Picture about .map
+a.	[‘a1’,’a2’,’a3’]
+16.	What will the following output? Picture about async function
+a.	A D B
+17.	What does the DOM textContent property do?	
+a.	Sets the child text for the an element
+18.	Which of the following is a DNS subdomain?
+a.	C260.cs.byu.edu
+19.	How will the “hello world” text be oriented? Picture about display: flex and flex-direction
+20.	Executing the following will output?
+21.	Which of the following is a vaild javascript object
+22.	The following console command makes a script executable:
+a.	Chmod +x deploy.sh
+
