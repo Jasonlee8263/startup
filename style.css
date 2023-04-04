@@ -2,5 +2,9 @@
     text-align: center;
 }
 .right {
-    margin-left:auto;
+    margin-left: auto;
 }
+body {
+    background-image: url('/asset/background.jpg');
+    background-size: 70%;
+  }
