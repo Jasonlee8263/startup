@@ -68,3 +68,15 @@ main{
 #chat-send:hover {
     background-color: #3e8e41;
   }
+
+  @media (max-height: 600px) {
+    header {
+      display: none;
+    }
+    footer {
+      display: none;
+    }
+    main {
+      flex: 1 100vh;
+    }
+  }
