@@ -1,4 +1,4 @@
-# Unione
+<!-- # Unione
 
 Elevator Speech
 Have you ever thought of an idea that if there is a place where you can share your awesome college life with other students who are attending saame school as you?
@@ -19,7 +19,7 @@ Key features
   * Like buttons to show the popularity of each post, and display Top 10 most liked postings
   * Options to choose whether your postings and comments to be anonymous or not
   * Results are persistently stored
-  * Ability for admin to create and delete questions
+  * Ability for admin to create and delete questions -->
 # Jonghyuk's Note
 change from vscode haha  
 Note: I think it's facinating to see how I can save and load my code from the website. And with git and github, I can work with other people when I'm not with them.  
