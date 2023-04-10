@@ -14,15 +14,23 @@ main{
     flex: 1;
     text-align: center;
 }
-#signin {
-    margin-right: auto;
+
+#login {
+    padding:10px 30px;
+    position: center;
+    border-radius: 5px;
+    color: white;
+    background-color:#0d62fd;
+}
+#login:hover {
+    background-color: #0847bbfc;
 }
 
 #chat-container {
   max-width: 600px;
   margin: 20px auto;
   background-color: #fff;
-  padding: 20px;
+  padding: 10px 20px;
   /* border-radius: 10px; */
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
