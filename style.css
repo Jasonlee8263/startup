@@ -38,3 +38,22 @@ main{
   justify-content: space-between;
   align-items: center;
 }
+
+#chat-input {
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+#chat-send {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+}
+#chat-send:hover {
+    background-color: #3e8e41;
+  }
