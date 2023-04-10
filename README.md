@@ -20,6 +20,16 @@ Key features
   * Options to choose whether your postings and comments to be anonymous or not
   * Results are persistently stored
   * Ability for admin to create and delete questions -->
+# Unichat  
+Elevator Speech  
+Have you thought of having a live chat with anyone who is attending the same college.  
+With this live chat, you can make new friends and find useful information for your college life!
+![simple sketch for startup](https://user-images.githubusercontent.com/92830075/215238607-6bf302a2-7640-4591-9e35-bed12f6de73b.png)
+
+Key features
+  * Secure login over HTTPS
+  * Share your stories, concerns you might have as a student
+  * Results are persistently stored
 # Jonghyuk's Note
 change from vscode haha  
 Note: I think it's facinating to see how I can save and load my code from the website. And with git and github, I can work with other people when I'm not with them.  
