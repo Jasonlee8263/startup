@@ -42,13 +42,20 @@
       <hr>
     </header>
     <main>
-      <div id="chat-container">
+      <div class="name">
+        <fieldset id="name-controls">
+          <legend>My Name</legend>
+          <input id="my-name" type="text" />
+          <button id="name-confirm" onclick="nameActive()">Confirm</button>
+        </fieldset>
+      </div>
+      <fieldset id="chat-container" disabled>
         <div id="chat-log"></div>
         <form id="chat-form">
           <input id="chat-input" type="text" placeholder="Type your message">
           <button id="chat-send">Send</button>
         </form>
-      </div>
+      </fieldset>
 
       <!-- <div class="name">
         <fieldset id="name-controls">

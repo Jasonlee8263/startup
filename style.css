@@ -69,6 +69,13 @@ main{
     background-color: #3e8e41;
   }
 
+#name-confirm:hover {
+    background-color:rgba(128, 128, 128, 0.163);
+}
+.name {
+    padding: 1em 0;
+}
+
   @media (max-height: 600px) {
     header {
       display: none;
