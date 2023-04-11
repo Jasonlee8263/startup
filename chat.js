@@ -6,6 +6,24 @@
 function nameActive() {
     document.getElementById('chat-container').disabled = false;
 }
-function sendmessage() {
 
+function appendMsg(cls, from, msg) {
+  const chatText = document.querySelector('#chat-log');
+  chatText.innerHTML = `<div><span class="${cls}">${from}</span>: ${msg}</div>` + chatText.innerHTML;
 }
+const input = document.querySelector('#chat-input');
+input.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    sendMessage();
+  }
+});
+function sendMessage() {
+    const msgEl = document.querySelector('#new-msg');
+    const msg = msgEl.value;
+    if (!!msg) {
+      appendMsg('me', 'me', msg);
+      const name = document.querySelector('#my-name').value;
+      socket.send(`{"name":"${name}", "msg":"${msg}"}`);
+      msgEl.value = '';
+    }
+  }
