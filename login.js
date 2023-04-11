@@ -24,8 +24,10 @@ function create() {
         alert('Sign up is complete.')
         window.location.href='signin.html'
     }
+    localStorage.setItem("userName", nameEI.value);
+    localStorage.setItem("password", passwordEI.value);
 }
 
 function authentication() {
-    
+
 }
