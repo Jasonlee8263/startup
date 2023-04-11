@@ -18,7 +18,7 @@ input.addEventListener('keydown', (e) => {
   }
 });
 function sendMessage() {
-    const msgEl = document.querySelector('#new-msg');
+    const msgEl = document.querySelector('#chat-input');
     const msg = msgEl.value;
     if (!!msg) {
       appendMsg('me', 'me', msg);
