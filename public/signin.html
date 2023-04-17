@@ -61,13 +61,30 @@
           placeholder="password"
         />
       </div>
-      <button type="button" class="btn btn-primary" onclick="login()">
+      <button type="button" class="btn btn-primary" onclick="loginUser()">
         Login
       </button>
       <button type="button" class="btn btn-primary" onclick="window.location.href='create.html'">
         Create
       </button>
     </div>
+
+    <div id="playControls" style="display: none">
+      <div class="container-fluid text-center">
+          <div class="row d-flex justify-content-center align-items-center">
+              <div>
+                  <div id="playerName"></div>
+                  <button type="button" class="btn btn-primary" onclick="login()">
+                      Start chatting
+                  </button>
+                  <button type="button" class="btn btn-secondary" onclick="logout()">
+                      Logout
+                  </button>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
   </main>
   <footer class="bg-dark text-dark text-muted">
     <div class="container-fluid">
