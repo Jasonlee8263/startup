@@ -41,6 +41,4 @@ module.exports = {
     getUser,
     getUserByToken,
     createUser,
-    addQuestion,
-    getQuestion,
 };
