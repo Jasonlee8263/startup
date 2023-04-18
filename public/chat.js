@@ -36,6 +36,13 @@ function sendMessage() {
 function nameActive() {
     document.getElementById('chat-container').disabled = false;
 }
+const myName = document.querySelector('#my-name');
+myName.addEventListener('keydown', (e) => {
+  if (e.key == 'Enter') {
+    nameActive();
+    document.querySelector('#chat-input').focus();
+  }
+});
 
 function appendMsg(cls, from, msg) {
   const chatText = document.querySelector('#chat-log');
