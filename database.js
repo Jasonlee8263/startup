@@ -13,8 +13,7 @@ if (!userName) {
 const url = `mongodb+srv://${userName}:${password}@${hostname}`;
 
 const client = new MongoClient(url);
-const userCollection = client.db('askcougars').collection('user');
-const questionCollection = client.db('askcougars').collection('userQuestion');
+const userCollection = client.db('startup').collection('user');
 
 function getUser(username) {
     return userCollection.findOne({ username: username });
