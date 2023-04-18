@@ -50,7 +50,7 @@ async function loginOrCreate(endpoint) {
 }
 
 function login() {
-    window.location.href = "chat.html";
+    window.location.href = 'chat.html';
 }
 
 function logout() {
